@@ -1,10 +1,10 @@
-Clerk POD
+<b>Clerk POD</b>
 
 
 
 This is a pod for below listed apis to be used in Clerk IOS App
 
-API
+<b>API</b>
 
 register api after login via FB
 get game lists,get bar chat data from server
@@ -19,17 +19,17 @@ proximity upload using blob api
 store locator api
 
 
-Requirements
+<b>Requirements</b>
 Cocoa pod installation 
 
 Details will be updated later
 
 
-Usage
+<b>Usage</b>
 init pod
 pod ‘podname’
 pod install
 
 
-API Example
+<b>API Example</b>
 Will be updated after pod creation for all above apis
